@@ -1,0 +1,6 @@
+region,G4_obs_exp,Zhunt_obs_exp,ZDNABERT_obs_exp
+Exons,0.18,0.35,0.29
+Introns,1.05,0.72,0.53
+Promoters,0.83,0.83,0.37
+Downstream,0.57,0.71,0.12
+Intergenic,1.0,1.05,1.09
